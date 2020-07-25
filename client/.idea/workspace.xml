@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e511e281-124e-4b77-a989-31a5181acf9b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../assignment2_server/assignment2-server" />
+  </component>
+  <component name="ProjectId" id="1bqREZc415CxFGNUYGoqMc3rPjz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/chat-app" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kchen\Documents\SENG365\assignment2_server\assignment2-server\storage\photos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kchen\Documents\SENG365\assignment2\chat-app\src\pages" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e511e281-124e-4b77-a989-31a5181acf9b" name="Default Changelist" comment="" />
+      <created>1589357525647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589357525647</updated>
+      <workItem from="1589357526869" duration="14213000" />
+      <workItem from="1589412965295" duration="23298000" />
+      <workItem from="1589597290625" duration="12453000" />
+      <workItem from="1589690437559" duration="13601000" />
+      <workItem from="1589782769896" duration="18079000" />
+      <workItem from="1589843476531" duration="1234000" />
+      <workItem from="1589858358166" duration="14874000" />
+      <workItem from="1590030169508" duration="53000" />
+      <workItem from="1590134131122" duration="599000" />
+      <workItem from="1590207206746" duration="12597000" />
+      <workItem from="1590393823418" duration="3247000" />
+      <workItem from="1590397302099" duration="77000" />
+      <workItem from="1590398137170" duration="3838000" />
+      <workItem from="1590449371374" duration="470000" />
+      <workItem from="1590449895076" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="536" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589361787821">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="536" y="220" key="#com.intellij.fileTypes.FileTypeChooser/294.-768.1366.730/0.0.1536.834@0.0.1536.834" timestamp="1589361787821" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1590449921946">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/294.-768.1366.730/0.0.1536.834@0.0.1536.834" timestamp="1590449921946" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1589785645876">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/294.-768.1366.730/0.0.1536.834@0.0.1536.834" timestamp="1589785645876" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1590398165263">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/294.-768.1366.730/0.0.1536.834@0.0.1536.834" timestamp="1590398165263" />
+  </component>
+</project>
