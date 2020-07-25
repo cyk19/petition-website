@@ -2,7 +2,7 @@
 
 ## Build Setup
 
-##### Client
+#### Client
 `cd client`
 
 **install dependencies**  
@@ -12,7 +12,7 @@
 `npm run dev`
 
 
-##### Server
+#### Server
 `cd server`
 
 **install dependencies**  
