@@ -2,21 +2,24 @@
 
 ## Build Setup
 
-### CLient
+###### Client
 `cd client`
-##### install dependencies
-npm install
 
-##### serve with hot reload at localhost:8080
-npm run dev
+**install dependencies**
+`npm install`
+
+**serve with hot reload at localhost:8080**
+`npm run dev`
 
 
-### Server
+###### Server
 `cd server`
-npm install
 
-##### start server at localhost:4941
-npm run start
+**install dependencies**
+`npm install`
+
+**start server at localhost:4941**
+`npm run start`
 
 
 
